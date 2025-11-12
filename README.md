@@ -54,6 +54,4 @@ Kotlin
 
 Jetpack Compose
 
-Material3 Components
-
 Android Studio
