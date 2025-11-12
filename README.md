@@ -23,7 +23,7 @@
 
 ## 📌 화면 예시
 
-**앱 시작 화면	
+앱 시작 화면	
 ---
 
 
@@ -31,7 +31,7 @@
 
 ---
 
-**할 일 추가 **
+할 일 추가 
 ---
 
 <img width="463" height="1011" alt="image" src="https://github.com/user-attachments/assets/789720ce-dbb8-4cf9-833c-b7fa40283db5" />
@@ -39,7 +39,7 @@
 ---
 
 
-**완료 시 랜덤 메시지 **
+완료 시 랜덤 메시지
 ---
 
 <img width="446" height="1011" alt="image" src="https://github.com/user-attachments/assets/926cf045-d8f3-4e92-b67c-2d74e41f4b3b" />
