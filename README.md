@@ -1,4 +1,7 @@
-발표용 자료
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=2025%202학기%20발표&animation=&fontColor=ffffff&fontSize=70" />
+    </div>
+    
 # 행복한 할 일 앱 (Happy To-Do App)
 
 ![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
