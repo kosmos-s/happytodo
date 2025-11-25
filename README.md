@@ -1,6 +1,12 @@
 발표용 자료
 # 행복한 할 일 앱 (Happy To-Do App)
 
+![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![kot](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![an](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ans](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
 <img width="506" height="185" alt="image" src="https://github.com/user-attachments/assets/57f86006-e2bf-4c4f-8020-2d77aba4c079" />
 
 ## 📌 프로젝트 소개
