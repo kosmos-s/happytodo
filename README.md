@@ -13,14 +13,18 @@
 
 <img width="506" height="185" alt="image" src="https://github.com/user-attachments/assets/57f86006-e2bf-4c4f-8020-2d77aba4c079" />
 
-## 📌 프로젝트 소개
+## 현재 저장소 상태 (2026-11-19 소스 확인)
+
+현재 `app/src/main/java/com/example/happytodo/MainActivity.kt`는 `Greeting("Android")`를 표시하는 기본 Compose 화면입니다. 아래의 할 일 기능 설명과 화면 이미지는 프로젝트 소개 자료이며, 현재 체크아웃한 소스로 해당 기능을 재현할 수 있다는 뜻은 아닙니다. 할 일 추가·삭제·응원 메시지 구현은 이 저장소 소스에서 확인되지 않았습니다.
+
+## 📌 프로젝트 소개 자료
 안드로이드 Jetpack Compose를 사용하여 만든 **간단한 To-Do List 앱**입니다.  
 - 할 일 추가 및 삭제  
 - 할 일 완료 시 랜덤 응원 메시지 출력  
 
 ---
 
-## 📌 주요 기능
+## 📌 소개 자료의 기능
 1. **할 일 추가**
    - 텍스트 입력 후 `추가` 버튼 클릭 시 목록에 항목 표시
 2. **할 일 삭제**
@@ -31,7 +35,7 @@
 
 ---
 
-## 📌 화면 예시
+## 📌 소개 자료의 화면 예시
 
 앱 시작 화면	
 ---
@@ -65,3 +69,13 @@ Kotlin
 Jetpack Compose
 
 Android Studio
+
+## 빌드와 검증
+
+Android Studio에서 저장소 루트를 열고 SDK 36을 설치한 뒤 포함된 Gradle Wrapper를 사용합니다. AGP 실행에는 JDK 17 이상이 필요합니다.
+
+```powershell
+.\gradlew.bat :app:testDebugUnitTest :app:assembleDebug
+```
+
+macOS/Linux에서는 `./gradlew`를 사용합니다. 현재 단위 테스트는 기본 산술 예제이며 할 일 기능 검증을 포함하지 않습니다. 소개 자료와 같은 앱의 원본 소스를 확인한 뒤 구현과 문서를 맞추는 작업이 남아 있습니다.
